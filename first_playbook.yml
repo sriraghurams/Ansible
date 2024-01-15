@@ -1,5 +1,5 @@
 ---
-- hosts: localhost
+- hosts: azurevm
   become: yes
   gather_facts: false
   tasks:
