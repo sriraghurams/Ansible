@@ -1,5 +1,5 @@
 ---
-- hosts: group1
+- hosts: localhost
   vars:
     ansible_python_interpreter: /usr/bin/python3.6
   tasks:
